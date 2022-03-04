@@ -2,6 +2,10 @@
   display: none;
 }
 
+#L2o{
+  .display: inherit;
+}
+
 #container {
   border:double;
   max-width:3000px;
